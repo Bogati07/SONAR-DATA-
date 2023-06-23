@@ -5,3 +5,10 @@ This research would help us understand the sediment accumulation patterns throug
 3)	Area Infort of the lock (Tatenberger Schleuse) 
 4)	Area Inside of the lock (Tatenberger Schleuse) 
 5)	Bank of the river.
+6)
+7)	8.	CONCLUSION
+ 
+The overall sediment pattern of the areas surrounding Dove Elbe is revealed by the findings and analysis of the area of interest. Target 1 had the least amount of silt buildup, due to the adjacent water mass with much stronger Flow movement. Despite the very high and steady flow velocity, Target2, located at the middle of the Norderelbe, accumulated a substantial amount of sediment. This is due to the morphology of the river belt. Despite the lock, there is no shifting sediment mass along either side of the lock in the area of interest 3 and 4. This is a result of the area around the lock having well-structured and paved surfaces. Regular water flow through the lock area also helps to maintain low sediment accumulation. Highest amount of sediment was accumulated at Target 5, which is close to the riverbank. This is as a result of the river's structure near the banks changing morphologically, which caused the flow velocity to decrease. This analysis can be used to understand the sediment pattern of the Dove Elbe region and other morphologically similar rivers and canals.
+It can also be concluded that the relation between volume of water and sediment deposit for a river with similar morphology is linear as mentioned in figure 27 and may not be corelated for 2 different rivers with unique geomorphology as mentioned in figure 28.
+Therefore, the project's overall goal of understanding the sediment pattern around various morphologies in and around dove Elbe region was successful. In addition to the research topic, the overall Field Training provided a summary of the use of hydrographic techniques, applications, and hands-on experience with Single Beam and Multibeam echo sounders and other instruments used in hydrographic surveys. This overview will not only help me comprehend the subject matter better, but will also encourage me to think broadly in the field of science and technology.
+
