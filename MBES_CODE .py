@@ -1,20 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # SFT  REPORT
-# 
-# **SEDIMENT MASS PERUNIT VOLUME CALCULATION FOR SEDIMENT DEPOSITS IN RIVER ELBBE**
-# 
-# **DEEPAK BOGATI (6066481)**
-# 
-# **SUBMITTED TO Ellen Werner, Mona Lütjens, Annette Scheider**
 
-# # INTRODUCTION 
-# 
-# Python is a programming language that is widely used in the software industry and academia. It is known for its simplicity, readability, and flexibility, which make it a popular choice for beginners and experienced programmers alike. Python has a large and active community of users, which has contributed to the development of a wide range of libraries and frameworks that support a variety of programming tasks, including data analysis, machine learning, and scientific computing. In this project, we are analyzing a Multibeam and single beam data form DV Ocean survey done on 2nd of july 2021 using python in jupiternote book.
-# 
-# After cleaning the noise form the data in qimera, x,y,z export from qimera is imported in jupiter notebook for volume calculation of the sediments in five diefferent target locations. 
-# 
+# **SEDIMENT MASS PERUNIT VOLUME CALCULATION FOR SEDIMENT DEPOSITS IN RIVER ELBBE**
 # 
 
 # **Importing Necessary Liberaries** 
